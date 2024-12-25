@@ -16,7 +16,7 @@ A simple and customizable random password generator built with Node.js. This too
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/random-password-generator.git
+   git clone https://github.com/princekunal101/node-project.git
    ```
 2. Navigate to the project directory:
    ```sh
